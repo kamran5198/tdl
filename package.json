@@ -1,0 +1,8 @@
+{
+  "name": "taskboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Personal task manager: categories, priority bars, comments, calendar",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
